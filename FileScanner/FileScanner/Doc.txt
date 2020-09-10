@@ -1,0 +1,10 @@
+Utilisation du tp Data_Binding pour la mise en place des images dossier et folder
+https://github.com/nbourre/wpf_databinding
+
+Utilisation d'un try catch
+https://docs.microsoft.com/en-us/dotnet/standard/exceptions/how-to-use-the-try-catch-block-to-catch-exceptions?fbclid=IwAR2K8zwMsOP5Otq70ZRAO58Jeiky_gh9c-sAzXnhnL9-4u-KAKciLBCMenY 
+
+Implémentation des tâches Asynchrone, Async Await
+https://docs.microsoft.com/fr-fr/dotnet/csharp/programming-guide/concepts/async/
+https://www.youtube.com/watch?v=2moh18sh5p4
+https://cshawi-my.sharepoint.com/:p:/g/personal/nbourre_cshawi_ca/EWItolvEMndAuL4H9lMp5aQBX-6aBQWl2Ntip45yfLw4eQ?e=4g6ZW0
