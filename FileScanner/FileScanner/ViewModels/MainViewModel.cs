@@ -100,9 +100,9 @@ namespace FileScanner.ViewModels
                         });
                     }
                 }
-                catch (System.UnauthorizedAccessException)
+                catch (UnauthorizedAccessException)
                 {
-
+                    
                     MessageBox.Show("You don't have access to all the files in here!");
                 }
             });
